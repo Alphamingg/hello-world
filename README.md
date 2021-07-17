@@ -1,2 +1,2 @@
 # hello-world
-开始记录我的第一次github使用
+记录第一次使用GitHub，这是一个不错的开始
